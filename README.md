@@ -1,3 +1,2 @@
 # first-time
-Mi primera vezhola mundo 
-primera vez
+Mi primera vez
